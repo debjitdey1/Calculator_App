@@ -1,17 +1,73 @@
-# flutter_application_1
+# 🧮 Flutter Calculator App
 
-A new Flutter project.
+A simple, modern, and user-friendly Calculator App built using Flutter and Dart. This application performs basic arithmetic operations with a clean interface and smooth user interaction.
 
-## Getting Started
+## 📱 About the Project
 
-This project is a starting point for a Flutter application.
+The Flutter Calculator App is a beginner-friendly mobile application developed to practise Flutter UI development, Dart programming, and state management.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🔄 Clear button to reset calculations
+- 🚫 Division-by-zero handling
+- 🎨 Clean and user-friendly interface
+- 📱 Responsive Flutter UI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd flutter_calculator_app
+```
+
+### 3. Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### 4. Run the Application
+
+```bash
+flutter run
+```
+
+## 🎯 Learning Objectives
+
+- Understanding Flutter widgets
+- Working with StatelessWidget and StatefulWidget
+- Using Dart variables and functions
+- Managing UI updates with setState()
+- Handling button click events
+- Implementing basic mathematical operations
+
+## 👨‍💻 Developer
+
+**Debjit Dey**
+
+MCA Student | Flutter & Dart Learner
+
+## ⭐ Support
+
+If you find this project useful, consider giving it a ⭐ on GitHub!
+
+---
+
+**Built with ❤️ using Flutter & Dart.**
